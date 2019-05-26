@@ -1,0 +1,20 @@
+[
+  {
+    "_class": "com.chill.talkies.domain.Movie",
+    "title": "Gully Boy",
+    "director": "Zoya Akhtar",
+    "studio": "Excel Entertainment",
+    "cast": "Ranveer Singh, Alia Bhatt",
+    "releaseYear": 2019,
+    "genre": "Biopic"
+  },
+  {
+    "_class": "com.chill.talkies.domain.Movie",
+    "title": "Andhadhun",
+    "director": "Sriram Raghavan",
+    "studio": "Viacom 18 Motion Pictures",
+    "cast": "Ayushmann Khurana, Tabu, Radhika Apte",
+    "releaseYear": 2018,
+    "genre": "Romantic Thriller"
+  }
+]
