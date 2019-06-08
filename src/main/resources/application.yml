@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: chill-talkies
+
+server:
+  port: ${PORT:8085}
